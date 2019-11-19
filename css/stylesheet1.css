@@ -1,0 +1,19 @@
+*{ box-sizing: border-box;}
+
+/* logo of udacity */
+.logo { margin-top: 5px; width: 200px; }
+
+/* hr  ( line) */
+.ol-md-12{color: #A9A9A9}
+
+/* header of (Features Work)*/
+.textj{font-weight: 100;}
+
+/* header of (JANE DOETTE) */
+.textF{color: #7d97ad;}
+
+.img-fluidpic{
+    height:300px; background-image:url(pic.png); background-size:cover; width:100%;}
+    
+    /* paragragh */
+   .pc{color: #008B8B; font-size: 20px;}
